@@ -1,0 +1,31 @@
+img[id="photo"]{
+    position: relative;
+    width: 82px;
+    height: 82px;
+    border-radius: 41px;
+}
+
+.container{
+    margin-top: 60px;
+}
+
+.container-md{
+    width: 30vw !important;
+    height: 100vh !important;
+    margin-top: 60px !important;
+}
+
+.container-lg{
+    width: 50vw !important;
+    height: 100vh !important;
+    margin-top: 60px !important;
+}
+
+@media (max-width: 1300px) {
+    .container-md{
+        width: 60vw;
+    }
+    .container-lg{
+        width: 60vw;
+    }
+}
