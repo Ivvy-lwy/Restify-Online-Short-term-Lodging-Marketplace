@@ -4,8 +4,8 @@ Restify is an online marketplace where users can search, book, comment and rate 
 Course: Programming on the Web, University of Toronto
 
 ## Architecture
-Frontend: React.js \\
-Backend: Django REST framework\\
+Frontend: React.js \
+Backend: Django REST framework\
 Check out the model overview and backend endpoints [here](./doc.pdf)
 
 ## How to run the project
