@@ -6,7 +6,7 @@ Course: Programming on the Web, University of Toronto
 ## Architecture
 Frontend: React.js \
 Backend: Django REST framework\
-Check out the model overview and backend endpoints [here](./doc.pdf)
+Check out the model overview and REST API endpoints [here](./docs.pdf)
 
 ## How to run the project
 run.sh: This script start both frontend and backend server.
