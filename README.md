@@ -3,6 +3,10 @@ Restify is an online marketplace where users can search, book, comment and rate 
 
 Course: Programming on the Web, University of Toronto
 
+## Architecture
+Frontend: React.js
+Backend: Django REST framework
+
 ## How to run the project
 run.sh: This script start both frontend and backend server.
 Run ./run.sh
